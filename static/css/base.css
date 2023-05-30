@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Shadows+Into+Light&display=swap');
+
+
+* {
+    background-color: #ffffff;
+    font-family: 'Gruppo', sans-serif;
+    /* font-family: 'Shadows Into Light', cursive; */
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
